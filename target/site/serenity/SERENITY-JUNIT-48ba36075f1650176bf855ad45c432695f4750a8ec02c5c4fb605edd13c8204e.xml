@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.herokuapp.booker_restful.herokuppainfo.HerokuappCURDTestWithSteps" skipped="0" tests="1" time="0.0" timestamp="2022-06-07T14:41:15.577+01:00[Europe/London]"><testcase classname="com.herokuapp.booker_restful.herokuppainfo.HerokuappCURDTestWithSteps" name="Initialisation"><error message="For input string: &quot;&quot;" type="java.lang.NumberFormatException">For input string: ""</error><system-err>For input string: ""&#13;
+com.herokuapp.booker_restful.testbase.TestBase.init(TestBase.java:19)&#13;
+</system-err></testcase></testsuite>
